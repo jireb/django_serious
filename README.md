@@ -1,2 +1,1 @@
-"# jireb" 
-"django_serious" 
+# django_serious
